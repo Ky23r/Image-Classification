@@ -13,6 +13,7 @@ The Fashion MNIST dataset is a popular dataset used for benchmarking machine lea
 ***Dataset***
 
 The dataset consists of 10 categories:
+
 - T-shirt/top
 - Trouser
 - Pullover
