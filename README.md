@@ -29,6 +29,7 @@ The training set contains 60,000 images, and the test set contains 10,000 images
 ***Requirements***
 
 - Python 3.x
+- Jupyter Notebook
 - Tensorflow
 - NumPy
 - Matplotlib
