@@ -42,6 +42,7 @@ After installing the necessary libraries, you can run the application using the 
 ```bash
 jupyter notebook Fashion_MNIST_ANN.ipynb
 ```
+
 ***Model Architecture***
 
 The model is a simple feedforward neural network with the following architecture:
